@@ -9,7 +9,7 @@
     "react-scripts": "^1.0.17"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cryptr": "^4.0.0",
     "email-validator": "^2.0.4",
     "moment": "^2.24.0",
